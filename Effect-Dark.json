@@ -344,7 +344,7 @@
             "font_weight": null
           }
         },
-        "background.appearance": "transparent"
+        "background.appearance": "opaque"
       }
     }
   ]
